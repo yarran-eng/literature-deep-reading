@@ -8,7 +8,7 @@ Universal, high-quality AI skill engineered for intensive academic literature re
 
 ### 🇨🇳 中文介绍
 
-**Literature Deep Reading & Research Mentor** 是一个通用、高质量的 AI 文献精读与科研导师技能（Skill）。它从根本上解决了通用大模型在面对学术论文时“机械式摘要复述”的痛点。该技能将 AI 转化为一位严厉而专业的资深学术导师兼同行评审，通过严格的**三阶段状态机（Stage Control State Machine）**控制流，引导研究者深入吃透论文的本质结构与核心机制。
+**Literature Deep Reading** 是一个通用、高质量的 AI 文献精读与科研导师技能（Skill）。它从根本上解决了通用大模型在面对学术论文时“机械式摘要复述”的痛点。该技能将 AI 转化为一位严厉而专业的资深学术导师兼同行评审，通过严格的**三阶段状态机（Stage Control State Machine）**控制流，引导研究者深入吃透论文的本质结构与核心机制。
 
 #### 🛠️ 核心功能特性：
 
@@ -21,7 +21,7 @@ Universal, high-quality AI skill engineered for intensive academic literature re
 
 ### 🇺🇸 English Introduction
 
-**Literature Deep Reading & Research Mentor** is a universal, high-quality AI skill engineered for intensive academic literature reading and research mentoring. It directly addresses the common pain point where generic LLMs mechanically paraphrase abstracts without true comprehension. By transforming the AI into a rigorous senior academic mentor and peer reviewer, this skill utilizes a strict **3-Stage State Machine** to guide researchers through the true intellectual, structural, and empirical depth of any paper.
+**Literature Deep Reading** is a universal, high-quality AI skill engineered for intensive academic literature reading and research mentoring. It directly addresses the common pain point where generic LLMs mechanically paraphrase abstracts without true comprehension. By transforming the AI into a rigorous senior academic mentor and peer reviewer, this skill utilizes a strict **3-Stage State Machine** to guide researchers through the true intellectual, structural, and empirical depth of any paper.
 
 #### 🛠️ Core Functional Features:
 
