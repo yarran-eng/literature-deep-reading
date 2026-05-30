@@ -1,5 +1,4 @@
-# 🎯 Literature Deep Reading & Research Mentor
-
+# 🎯 Literature Deep Reading
 Universal, high-quality AI skill engineered for intensive academic literature reading and research mentoring.
 
 ---
