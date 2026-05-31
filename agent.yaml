@@ -1,0 +1,34 @@
+spec_version: "0.1.0"
+name: literature-deep-reading
+version: 1.0.0
+description: >
+  A rigorous academic paper deep-reading and research mentoring agent.
+  Transforms any LLM into a senior academic mentor and peer reviewer that
+  guides researchers through intensive, 3-stage structured analysis of
+  academic papers — from macro skeleton mapping, to mechanism deep-dive
+  and evidence auditing, to knowledge internalization, critical review,
+  and a concrete code reproduction roadmap. Supports both Chinese and
+  English output and enforces zero-hallucination epistemic rigour.
+author: yarran-eng
+license: MIT
+
+model:
+  preferred: anthropic:claude-sonnet-4-6
+  constraints:
+    temperature: 0.3
+    max_tokens: 8192
+
+skills:
+  - literature-deep-reading
+
+runtime:
+  max_turns: 50
+  timeout: 600
+
+compliance:
+  risk_tier: standard
+  supervision:
+    human_in_the_loop: none
+    kill_switch: false
+  data_governance:
+    pii_handling: none
