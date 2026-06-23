@@ -10,10 +10,10 @@
 
 | Version / 版本 | Output Language / 输出语言 | Meta-instruction Language / 元指令语言 | Audience / 受众 |
 |---|---|---|---|
-| **`2.0.0`** | 中文 / Chinese | English | 中文用户 / Chinese-speaking users |
+| **`2.0.0/2.0.2`** | 中文 / Chinese | English | 中文用户 / Chinese-speaking users |
 | **`2.0.1`** | English / 英文 | English | 英文用户 / English-speaking users |
 
-- **🇨🇳 中文用户 / Chinese-speaking users:** 请下载 `2.0.0` 版本（中文输出层）
+- **🇨🇳 中文用户 / Chinese-speaking users:** 请下载 `2.0.0/2.0.2` 版本（中文输出层）
 - **🇬🇧 English users / 英文用户:** Please download the `2.0.1` version (full English output)
 
 > Both versions share the identical three-stage analytical core; they differ only in the output language. / 两个版本共享完全相同的三阶段分析内核，仅输出语言不同。
@@ -92,7 +92,7 @@ Built for **engineering Master's students** who want to:
 ---
 ---
 
-# 🇨🇳 中文介绍（适用于 v2.0.0）
+# 🇨🇳 中文介绍（适用于 v2.0.0/2.0.2）
 
 ## 它是什么
 
